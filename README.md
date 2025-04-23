@@ -1,0 +1,1 @@
+The Task Management System is a web-based application designed to streamline task creation, assignment, and progress tracking within teams. It supports multiple user roles — Admin, Supervisor, and Employee — each with specific permissions to ensure efficient collaboration and accountability.
